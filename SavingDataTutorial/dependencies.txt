@@ -1,0 +1,2 @@
+appcompact_v7
+#update the project.properties with the path of the project appcompact_v7
